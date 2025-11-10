@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metaData: Metadata = {
-    metadataBase: new URL(process.env.NEXT_PUBLIC_CURRENT_SITE_URL as string),
+    metadataBase: new URL(process.env.NEXT_PUBLIC_CURRENT_SITE_URL || "https://seeaboutmyself.netlify.app"),
     openGraph: {
         type: "website",
         locale: "en_US",
