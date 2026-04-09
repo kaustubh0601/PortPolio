@@ -71,6 +71,24 @@ export const heroSection = {
 
 export const workExperience = [
   {
+    company: "Zollate",
+    position: "Full Stack Developer",
+    period: "Nov 2025 - Present",
+    // shortDesc:
+    //   "Contributed to developing interactive web modules and scalable backend systems for PeopleXM’s customer experience platform. Worked on enhancing UI responsiveness, backend automation, and optimizing API performance to improve reliability and engagement.",
+    bulletPoints: [
+      "Developed and delivered multiple product features in an ongoing web application using React.js, Node.js, Express.js, and MongoDB, improving overall application functionality.",
+      "Optimized backend API performance using Node.js and Express.js, reducing response time from 4–6 seconds to 350–500 ms.",
+      "Reduced unnecessary API calls by implementing caching mechanisms and improving request-response handling.",
+      "Optimized MongoDB queries and cleaned API responses by removing redundant database calls, improving backend efficiency.",
+      "Implemented real-time communication and notifications using Stream and Firebase Cloud Messaging (FCM).",
+      "Improved application reliability by implementing React Error Boundaries and optimizing component-level error handling.",
+      "Enhanced user experience by implementing interactive UI elements such as Marquee effects, Breadcrumb navigation, and Shimmer loading states.",
+      "Built fully responsive UI components using React.js, HTML, CSS, and Tailwind CSS, ensuring compatibility across mobile, tablet, and desktop devices.",
+      "Resolved bugs reported by QA testers, ensuring application stability and smoother user experience across modules.",
+    ],
+  },
+  {
     company: "PeopleXM",
     position: "MERN Stack Web Developer Intern",
     period: "July 2025 - Oct 2025",
