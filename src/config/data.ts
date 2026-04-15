@@ -256,7 +256,7 @@ export const projects = [
     ),
   },
   {
-    title: "CareSync",
+    title: "TOHA Alumani Portal",
     description:
       "A full-stack healthcare management platform for streamlining hospital operations, featuring React.js frontend and Express.js–MongoDB backend with JWT authentication and an admin dashboard to enhance scheduling and efficiency.",
     image: "/CareSync.png",
